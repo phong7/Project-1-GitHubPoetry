@@ -8,6 +8,7 @@ h1 {
   font-family: 'Lucida Handwriting', cursive;
   font-weight: bold;
   margin-left: 20px;
+  text-shadow: 2px 2px 5px white;
 
 }
 
@@ -15,6 +16,6 @@ p {
   color: white;
   font-family: 'Lucida Handwriting', cursive;
   font-size: 20px;
-  text-shadow: 2px 2px 5px red;
+  text-shadow: 2px 2px 5px gold;
   
 }
