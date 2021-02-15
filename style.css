@@ -8,7 +8,7 @@ h1 {
   font-family: 'Lucida Handwriting', cursive;
   font-weight: bold;
   margin-left: 20px;
-  text-shadow: 2px 2px 5px white;
+  text-shadow: 2px 2px white;
 
 }
 
@@ -21,22 +21,3 @@ p {
   
 }
 
-div.GitHubPoetry_Proj1 {
-  margin: 5px;
-  border: 1px solid #777;
-  float: left;
-  width: 300px;
-}
-
-div.GitHubPoetry_Proj1:hover {
-  border: 1px solid #777;
-}
-
-div.GitHubPoetry_Proj1 img {
-  width: 100%;
-  height: auto;
-}
-
-div.desc {
-  padding: 15px;
-  text-align: center;
