@@ -10,10 +10,10 @@ Wishes, Good Luck, and Greetings
 
 Pray to the gods for a good season
 Pray for a happy life
-Hope for the journey ahead 
+Have Hope for the journey ahead 
 Observe the legends, customs, and traditions 
 
-2021 is a *New* Year 
+2021 is a <b> *New* </b> Year 
 Solar and Lunar 
 The New Moon is here on first lunar month 
 The Year of the Ox
