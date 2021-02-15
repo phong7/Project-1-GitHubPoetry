@@ -21,18 +21,18 @@ p {
   
 }
 
-div.gallery {
+div.GitHubPoetry_Proj1 {
   margin: 5px;
   border: 1px solid #777;
   float: left;
   width: 300px;
 }
 
-div.gallery:hover {
+div.GitHubPoetry_Proj1:hover {
   border: 1px solid #777;
 }
 
-div.gallery img {
+div.GitHubPoetry_Proj1 img {
   width: 100%;
   height: auto;
 }
