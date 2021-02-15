@@ -1,8 +1,16 @@
 body {
-  background-color: red;
+  background-color: darkred;
 }
 
 h1 {
-  color: yellow;
+  color: gold;
+  text-align: center;
+  font-family: 'Lucida Handwriting', cursive;
   margin-left: 20px;
+
 }
+
+p {
+  color: white;
+  font-family: 'Lucida Handwriting', cursive;
+  font-size: 20px;
