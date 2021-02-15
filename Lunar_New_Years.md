@@ -22,7 +22,7 @@ Observe the legends, customs, and traditions
 
 2021 is a <b> *New* </b> Year    
 Solar and Lunar    
-The New Moon is here on first lunar month    
+The New Moon is here on the first lunar month    
 The Year of the Ox   
 So Wonderful    
 
